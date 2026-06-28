@@ -1,0 +1,382 @@
+{
+  "id": "sun-vivalapanda",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@vivalapanda Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_b7a44e69ad5c",
+    "display_name": "vivalapanda",
+    "user_id": "@vivalapanda",
+    "description": "Community Archive-derived proof-of-search sun for @vivalapanda.",
+    "document_count": 18347,
+    "word_count": 297263,
+    "active_days": 1431,
+    "emissions": [
+      "Think",
+      "Good",
+      "Arctanno",
+      "Don",
+      "Really",
+      "Time"
+    ],
+    "generated_at": "2026-06-28T22:18:52.279058+00:00",
+    "color": "#f59e0b",
+    "mass": 12.602
+  },
+  "planets": [
+    {
+      "id": "planet_55181c4a0816",
+      "name": "Think",
+      "summary": "Archive cluster around think: 15470 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "tszzl",
+        "should",
+        "bad",
+        "nlrg_"
+      ],
+      "artifacts": [
+        {
+          "id": "art_29a76b7565eb",
+          "title": "Think receipt from 2024-09-16",
+          "excerpt": "Secret Service should have a bug bounty where if you hit someone under their protection with a paintball gun you get $10k",
+          "source_document_id": "1835819248582799695",
+          "timestamp": "2024-09-16T23:13:11+00:00",
+          "url": "https://x.com/vivalapanda/status/1835819248582799695",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, tszzl, should, bad."
+        },
+        {
+          "id": "art_1ee89e9bca12",
+          "title": "Think receipt from 2024-09-17",
+          "excerpt": "@SamEshaghoff Yes",
+          "source_document_id": "1835844369544581547",
+          "timestamp": "2024-09-17T00:53:00+00:00",
+          "url": "https://x.com/vivalapanda/status/1835844369544581547",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, tszzl, should, bad."
+        },
+        {
+          "id": "art_4bcb1eb13526",
+          "title": "Think receipt from 2025-05-31",
+          "excerpt": "https://t.co/87AqZot3Js https://t.co/QuQgQsJeNu https://t.co/hjmRSloybx",
+          "source_document_id": "1928951301204799841",
+          "timestamp": "2025-05-31T23:06:43+00:00",
+          "url": "https://x.com/vivalapanda/status/1928951301204799841",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, tszzl, should, bad."
+        },
+        {
+          "id": "art_361c881d80e7",
+          "title": "Think receipt from 2024-09-16",
+          "excerpt": "There’s simply no way it could go wrong",
+          "source_document_id": "1835819314672435673",
+          "timestamp": "2024-09-16T23:13:27+00:00",
+          "url": "https://x.com/vivalapanda/status/1835819314672435673",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, tszzl, should, bad."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_b9c55d34822c",
+      "proof_score": 1,
+      "mass": 37.116,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_2f24931c35a9",
+      "name": "Good",
+      "summary": "Archive cluster around good: 844 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "good",
+        "really",
+        "bad",
+        "want",
+        "actually"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8edf2642347d",
+          "title": "Good receipt from 2022-09-15",
+          "excerpt": "Subculture society is good because it makes status high dimensional, and local maxima are rare in high dimensional space",
+          "source_document_id": "1570205346832207873",
+          "timestamp": "2022-09-15T00:18:22+00:00",
+          "url": "https://x.com/vivalapanda/status/1570205346832207873",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, want."
+        },
+        {
+          "id": "art_d5a883bcd06c",
+          "title": "Good receipt from 2024-03-27",
+          "excerpt": "@john_ennis_btc Empathy is good and generally left-coded",
+          "source_document_id": "1773041521559765074",
+          "timestamp": "2024-03-27T17:36:54+00:00",
+          "url": "https://x.com/vivalapanda/status/1773041521559765074",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, want."
+        },
+        {
+          "id": "art_ecada11cdf24",
+          "title": "Good receipt from 2023-08-17",
+          "excerpt": "I feel like this is one of the big reasons to work in an ambitious startup\n\nWorking closely with people who are just *insanely* good at what they do changes your perspective on the possible, and on the scope of human possibility https://t.co/jDGNAiZQjd",
+          "source_document_id": "1692203653191565815",
+          "timestamp": "2023-08-17T15:56:05+00:00",
+          "url": "https://x.com/vivalapanda/status/1692203653191565815",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, want."
+        },
+        {
+          "id": "art_c1a6d00ade98",
+          "title": "Good receipt from 2022-05-05",
+          "excerpt": "Tech shifts which people were Very Concerned about at the time but which have ended up being nothingburgers:\n\n* Net Neutrality\n* Deepfakes\n* YouTube algorithmic radicalization\n\nAny other good examples (or counterexamples?)",
+          "source_document_id": "1522291408492670976",
+          "timestamp": "2022-05-05T19:05:29+00:00",
+          "url": "https://x.com/vivalapanda/status/1522291408492670976",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: good, really, bad, want."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_96cba2ff867b",
+      "proof_score": 1,
+      "mass": 29.426,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_6dd607c2fc0b",
+      "name": "Arctanno",
+      "summary": "Archive cluster around arctanno: 776 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "arctanno",
+        "time",
+        "really",
+        "don",
+        "actually"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6084d9e15171",
+          "title": "Arctanno receipt from 2022-01-08",
+          "excerpt": "@Nexuist @arctanno @Duderichy https://t.co/V23T9O5otq",
+          "source_document_id": "1479714860296331265",
+          "timestamp": "2022-01-08T07:21:29+00:00",
+          "url": "https://x.com/vivalapanda/status/1479714860296331265",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: arctanno, time, really, don."
+        },
+        {
+          "id": "art_1b1bd01b1aeb",
+          "title": "Arctanno receipt from 2022-01-12",
+          "excerpt": "@arctanno Gonna start a restaurant that is just replicas of McD menu items but we use lard instead",
+          "source_document_id": "1481107721466253314",
+          "timestamp": "2022-01-12T03:36:13+00:00",
+          "url": "https://x.com/vivalapanda/status/1481107721466253314",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: arctanno, time, really, don."
+        },
+        {
+          "id": "art_7123ce2b542d",
+          "title": "Arctanno receipt from 2023-09-24",
+          "excerpt": "This is an official @arctanno endorsement: he's in the top 1% of non-flaky/punctual people https://t.co/bU4JVW5yFg",
+          "source_document_id": "1705793751258656925",
+          "timestamp": "2023-09-24T03:58:17+00:00",
+          "url": "https://x.com/vivalapanda/status/1705793751258656925",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: arctanno, time, really, don."
+        },
+        {
+          "id": "art_b505ddef5a02",
+          "title": "Arctanno receipt from 2022-06-24",
+          "excerpt": "@arctanno @tszzl Unfortunately I discover that instead of having lots of women, it's actually just a few that are really into strategy games",
+          "source_document_id": "1540450274451398656",
+          "timestamp": "2022-06-24T21:42:20+00:00",
+          "url": "https://x.com/vivalapanda/status/1540450274451398656",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: arctanno, time, really, don."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_8326d046cf74",
+      "proof_score": 1,
+      "mass": 27.736,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_050878e2c89b",
+      "name": "Don",
+      "summary": "Archive cluster around don: 495 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "know",
+        "want",
+        "really",
+        "need"
+      ],
+      "artifacts": [
+        {
+          "id": "art_017b7c594a6f",
+          "title": "Don receipt from 2025-05-31",
+          "excerpt": "Less tritely: What are the main reasons rich people don't do more public art stuff?",
+          "source_document_id": "1928957166305616097",
+          "timestamp": "2025-05-31T23:30:01+00:00",
+          "url": "https://x.com/vivalapanda/status/1928957166305616097",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_f8002c1f6831",
+          "title": "Don receipt from 2022-02-24",
+          "excerpt": "Don't have much to add to the current situation except that nuclear nonproliferation is dead for the rest of my lifetime probably https://t.co/eEt5gGTlim",
+          "source_document_id": "1496702553014214659",
+          "timestamp": "2022-02-24T04:24:30+00:00",
+          "url": "https://x.com/vivalapanda/status/1496702553014214659",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_fbc8d995d276",
+          "title": "Don receipt from 2022-08-04",
+          "excerpt": "How do people who don't code even take this stuff, any time I'm not coding I feel like I need to be doing more things \n\nOnly the glory of shape rotation can fully utilize fastmode",
+          "source_document_id": "1555312414664470528",
+          "timestamp": "2022-08-04T21:59:10+00:00",
+          "url": "https://x.com/vivalapanda/status/1555312414664470528",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        },
+        {
+          "id": "art_6947f100fe2a",
+          "title": "Don receipt from 2023-03-28",
+          "excerpt": "This is the most braindead argument against LLMs and I don't know why it keeps coming out given that the answer is obvious: human brains are pretrained by millions of years of evolution, your lifetime learnings are basically just RLHF https://t.co/wuv581pARf",
+          "source_document_id": "1640533446199242752",
+          "timestamp": "2023-03-28T01:57:07+00:00",
+          "url": "https://x.com/vivalapanda/status/1640533446199242752",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, know, want, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_2e0e15e1fbff",
+      "proof_score": 0.971,
+      "mass": 28.489,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_c172a2cfff6b",
+      "name": "Really",
+      "summary": "Archive cluster around really: 375 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "really",
+        "bad",
+        "something",
+        "doesn",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_17965c7e1fa0",
+          "title": "Really receipt from 2025-05-31",
+          "excerpt": "3) Seminality\n\nThe Medici could fund art in transformative ways because they were part of the first wave of bourgeoisie. Funding the top 1% of artists was really high impact. Now the top 1% of artists are already basically funded, so you're funding much more marginal art",
+          "source_document_id": "1928957170835411252",
+          "timestamp": "2025-05-31T23:30:02+00:00",
+          "url": "https://x.com/vivalapanda/status/1928957170835411252",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, bad, something, doesn."
+        },
+        {
+          "id": "art_ab96e828a801",
+          "title": "Really receipt from 2025-05-30",
+          "excerpt": "If you're using Deep Research to look through academic literature, you're missing out on any closed access research, which often includes the most seminal papers\n\nI built this feature so that serious researchers can use Elicit to really look through *all* relevant research https://t.co/q994f4ifRQ",
+          "source_document_id": "1928472804338335926",
+          "timestamp": "2025-05-30T15:25:20+00:00",
+          "url": "https://x.com/vivalapanda/status/1928472804338335926",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, bad, something, doesn."
+        },
+        {
+          "id": "art_48000d8225cc",
+          "title": "Really receipt from 2023-06-09",
+          "excerpt": "One thing that really stands out about Neal Stephenson is that even when he's writing dystopia, the *awe* of technology is never lost on him. He understands that if these things are horrible, they're horrible in the way a hurricane is - full of destruction and yet holy and moving",
+          "source_document_id": "1667221333216989185",
+          "timestamp": "2023-06-09T17:25:15+00:00",
+          "url": "https://x.com/vivalapanda/status/1667221333216989185",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, bad, something, doesn."
+        },
+        {
+          "id": "art_14b9c974481f",
+          "title": "Really receipt from 2021-03-23",
+          "excerpt": "@NLRG_ Never noticed the fucking snek t-shirt\n\nReally adds to the Art",
+          "source_document_id": "1374439435979264002",
+          "timestamp": "2021-03-23T19:14:32+00:00",
+          "url": "https://x.com/vivalapanda/status/1374439435979264002",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: really, bad, something, doesn."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_bccdcffb689d",
+      "proof_score": 0.943,
+      "mass": 27.559,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_fd2e2f9a6f38",
+      "name": "Time",
+      "summary": "Archive cluster around time: 387 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "time",
+        "every",
+        "over",
+        "spend",
+        "something"
+      ],
+      "artifacts": [
+        {
+          "id": "art_c0c9a96d9c9e",
+          "title": "Time receipt from 2023-05-24",
+          "excerpt": "Every single facet of everything around you is the result of world-defying passion. Every time there is something instead of nothing, growth instead of decay, you are seeing the echoes of a heart that cared about improving the world more than just subsisting.",
+          "source_document_id": "1661386704123469830",
+          "timestamp": "2023-05-24T15:00:31+00:00",
+          "url": "https://x.com/vivalapanda/status/1661386704123469830",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, over, spend."
+        },
+        {
+          "id": "art_161fc7bf633c",
+          "title": "Time receipt from 2021-10-22",
+          "excerpt": "@conorsen @ModeledBehavior 100% believe this. Phone menus are a huge hassle and more inconvenient in every way.\n\nOnly time they're sorta justified is when the restaurant hooks it up to their ordering system so you can order on the phone (but still get served and pay like normal)",
+          "source_document_id": "1451378092295933958",
+          "timestamp": "2021-10-22T02:41:17+00:00",
+          "url": "https://x.com/vivalapanda/status/1451378092295933958",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, over, spend."
+        },
+        {
+          "id": "art_f56966fbc4e5",
+          "title": "Time receipt from 2024-01-13",
+          "excerpt": "The desire for adventure is to a great extent, about the desire for greater contact with physical reality instead of social reality\n\nTo spend time solving problems instead of convincing others that problems should be solved",
+          "source_document_id": "1746254825870774458",
+          "timestamp": "2024-01-13T19:36:08+00:00",
+          "url": "https://x.com/vivalapanda/status/1746254825870774458",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, over, spend."
+        },
+        {
+          "id": "art_e873c673857f",
+          "title": "Time receipt from 2022-12-07",
+          "excerpt": "@michael_nielsen I use GPT-3 playground (which is basically the same thing) all the time for stuff like tedious text manipulation e.g. \"I have this list formatted this way but I want it formatted this way instead\" or \"please template this list into this block of text\"",
+          "source_document_id": "1600308004309827585",
+          "timestamp": "2022-12-07T01:55:35+00:00",
+          "url": "https://x.com/vivalapanda/status/1600308004309827585",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: time, every, over, spend."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_228f1f2c7c59",
+      "proof_score": 0.946,
+      "mass": 27.487,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
